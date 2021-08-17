@@ -204,6 +204,9 @@ section {
 .font-color-light {
   color: $color_grey-lighter;
 }
+.font-color-blue {
+  color: $color_blue-base;
+}
 .btn {
   font-size: 14px;
   background-color: $color_white;
@@ -391,7 +394,7 @@ p {
     line-height: initial;
   }
   .text-xxl {
-    font-size: 56px;
+    font-size: 80px;
     font-weight: 300;
     font-family: 'rubik';
     line-height: 1;
